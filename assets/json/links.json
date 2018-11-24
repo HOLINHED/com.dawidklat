@@ -1,0 +1,40 @@
+{
+   "links" : [
+      {
+         "name": "Dawid",
+         "desc": "Human",
+         "link": "",
+         "date": "July 2000"
+      },
+      {
+         "name": "p5sketches",
+         "desc": "simple javascript programs",
+         "link": "/p5sketches",
+         "date": "2016 - now"
+      },
+      {
+         "name": "web apps",
+         "desc": "simple nodejs apps",
+         "link": "/webapps",
+         "date": "2018 - now"
+      }
+   ],
+   "titles": [
+      "hello",
+      "hi there",
+      "greetings",
+      "( ͡◉ ͜ʖ ͡◉)",
+      "(☭ ͜ʖ ☭)",
+      "<:::::[]=¤ (▀̿̿Ĺ̯̿̿▀̿ ̿)",
+      "(▀̿Ĺ̯▀̿ ̿)",
+      "¯\\_(ツ)_/¯",
+      "HOLY SPIRIT!!!",
+      "gutten tag",
+      "ich habe pizza gegessen",
+      "(͠≖ ͜ʖ͠≖)",
+      "(´･ω･`)",
+      "ಠ_ಠ",
+      "🤔",
+      "😑"
+   ]
+}
