@@ -6,6 +6,20 @@ table {
   text-align: left;
 }
 
+::selection {
+  background: rgba(162, 221, 255, 0.418);
+  color: white;
+}
+
+::-moz-selection {
+  background: rgba(162, 221, 255, 0.418);
+  color: white;
+}
+
+::selection:window-inactive {
+  background: rgba(162, 221, 255, 0.918);
+}
+
 #title {
   color: lightskyblue;
 }
