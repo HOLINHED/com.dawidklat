@@ -24,6 +24,12 @@ table {
   color: lightskyblue;
 }
 
+#container h3 {
+  color: gray;
+  font-weight: normal;
+  margin-left: 30px;
+}
+
 .link {
   text-decoration: none;
   color: lightcoral;
