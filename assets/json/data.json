@@ -10,26 +10,32 @@
          "name": "P5sketches",
          "desc": "Simple P5 Programs",
          "link": "/p5sketches",
-         "date": "Dec 2016"
-      },
-      {
-         "name": "Web Apps",
-         "desc": "Basic NodeJS apps",
-         "link": "/webapps",
-         "date": "Aug 2018"
+         "date": "-"
       },
       {
          "name": "Twitter",
          "desc": "The worst Twitter profile",
          "link": "https://twitter.com/dawidklat",
-         "date": "Nov 2018"
+         "date": "-"
       },
       {
          "name": "Github",
          "desc": "A github page",
          "link": "https://github.com/HOLINHED",
-         "date": ""
+         "date": "-"
       },
+	  {
+		"name": "Chat",
+		"desc": "Basic chat app",
+		"link": "https://holinhedxyz-chat.herokuapp.com",
+		"date": "Sept 2018"
+	  },
+	  {
+		"name": "Multipaint",
+		"desc": "Multiplayer paint",
+		"link": "https://holinhedxyz-multipaint.herokuapp.com",
+		"date": "Aug 2018"
+	  },
       {
          "name": "Nothing",
          "desc": "Nothing",

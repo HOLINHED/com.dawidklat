@@ -4,6 +4,8 @@ body {
 
 table {
    text-align: left;
+   margin-top: 20px;
+   margin-left: 30px;
 }
 
 ::selection {
@@ -21,6 +23,8 @@ table {
 
 #title {
    color: lightskyblue;
+   font-size: 50px;
+   margin-left: 30px;
 }
 
 #container h3 {
@@ -40,32 +44,28 @@ table {
 
 .text {
    color: gray;
+   margin-left: 50px;
 }
 
-@media screen and (max-width: 999px) {
-   table {
-      margin-top: 15px;
-      margin-left: 15px;
-   }
-   #title {
-      font-size: 30px;
-      margin-left: 15px;
-   }
-   .text {
-      margin-left: 15px;
-   }
-}
+@media (max-width: 500px) {
 
-@media screen and (min-width: 1000px) {
-   table {
-      margin-top: 20px;
-      margin-left: 30px;
-   }
-   #title {
-      font-size: 50px;
-      margin-left: 30px;
-   }
-   .text {
-      margin-left: 50px;
-   }
+	body {
+		margin: 0;
+	}
+	
+	table {
+		margin: 0 auto;
+	}
+
+	.text {
+		margin-left: 15px;
+	}
+	
+	#title {
+		font-size: 35px;
+		text-align: center;
+		margin-left: 0px;
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
 }

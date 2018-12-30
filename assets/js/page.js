@@ -35,7 +35,7 @@ function makePage(links){
       const dateCol = document.createElement("td");
       const date = document.createElement("text");
       date.setAttribute("class", "text");
-      date.innerHTML = `${link.date}`
+      date.innerHTML = `${link.date}`;
       dateCol.appendChild(date);
 
       row.appendChild(dateCol);
