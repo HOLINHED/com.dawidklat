@@ -8,5 +8,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET'){
    echo json_encode($data);
 } else {
    //POST
+   //TODO: Allow additions to JSON file.
 }
 
