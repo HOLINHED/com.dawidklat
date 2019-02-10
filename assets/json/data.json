@@ -13,17 +13,23 @@
          "date": "-"
       },
       {
-         "name": "Twitter",
-         "desc": "The worst Twitter profile",
-         "link": "https://twitter.com/dawidklat",
-         "date": "-"
-      },
-      {
          "name": "Github",
          "desc": "A github page",
          "link": "https://github.com/HOLINHED",
          "date": "-"
       },
+	  {
+		"name": "Poll Creator [WIP]",
+		"desc": "A Poll app made with Vue and express.",
+		"link": "https://github.com/HOLINHED/poll-creator",
+		"date": "Feb 2019"
+	  },
+	  {
+		"name": "Url Shortener",
+		"desc": "Made with Express and MongoDB",
+		"link": "https://holinhed-url.now.sh/",
+		"date": "Dec 2018"
+	  },
 	  {
 		"name": "Chat",
 		"desc": "Basic chat app",
